@@ -20,7 +20,7 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 
 ⚡ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,js,html,css,mysql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
