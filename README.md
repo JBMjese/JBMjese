@@ -34,7 +34,10 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 
 ###  🚨 Featured projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=PonGame&layout=pie&theme=tokyonight)]
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=holbertonschool-printf&theme=tokyonight)](https://github.com/JBMjese/holbertonschool-printf)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=PongGame&theme=tokyonight)](https://github.com/JBMjese/PongGame)
+
 
 
 
