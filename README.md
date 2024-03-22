@@ -17,6 +17,7 @@ Additionally, I hold a degree in Financial Management with skills in data analys
 
 
 ⚡ Technologies
+[![My Skills](https://skillicons.dev/icons?i=c,py,js,html,css)](https://skillicons.dev)
 
-![example-dark](https://github.com/JBMjese/JBMjese/assets/135727452/dee94238-fd70-4283-b806-d1c0562adf79) ![example-dark](https://github.com/JBMjese/JBMjese/assets/135727452/ef10ee6d-0ee6-4be8-9cee-589dcc0e3cdb) 
+
 
