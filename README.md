@@ -25,7 +25,9 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
 
-##  My GitHub Stats
+##  📈 My GitHub Stats
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JBMjese&show_icons=true&theme=tokyonight)
 
 
 
