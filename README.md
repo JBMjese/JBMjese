@@ -17,17 +17,6 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 
 😁 I'm excited to contribute and collaborate on challenging projects that drive innovation and technological progress. I'm always ready to learn and grow in this exciting world of technology! 😃
 
-###  🚨 Featured projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=holbertonschool-printf&theme=tokyonight)](https://github.com/JBMjese/holbertonschool-printf)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=PongGame&theme=tokyonight)](https://github.com/JBMjese/PongGame)
-
-
-###  🔷 collaborations
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nCristinaRodriguezr&repo=holbertonschool-simple_shell&theme=tokyonight&show_owner=true&description_lines_count=2)](https://github.com/nCristinaRodriguezr/holbertonschool-simple_shell) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=camilof91&repo=holbertonschool-AirBnB_clone&theme=tokyonight&show_owner=true&description_lines_count=2)](https://github.com/camilof91/holbertonschool-AirBnB_clone)
-
 
 ## ⚡ Technologies
 
@@ -42,6 +31,18 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBMjese&layout=pie&theme=tokyonight)]
+
+###  🚨 Featured projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=holbertonschool-printf&theme=tokyonight)](https://github.com/JBMjese/holbertonschool-printf)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=PongGame&theme=tokyonight)](https://github.com/JBMjese/PongGame)
+
+
+###  🔷 collaborations
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nCristinaRodriguezr&repo=holbertonschool-simple_shell&theme=tokyonight&show_owner=true&description_lines_count=2)](https://github.com/nCristinaRodriguezr/holbertonschool-simple_shell) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=camilof91&repo=holbertonschool-AirBnB_clone&theme=tokyonight&show_owner=true&description_lines_count=2)](https://github.com/camilof91/holbertonschool-AirBnB_clone)
+
 
 
 
