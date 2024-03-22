@@ -19,18 +19,15 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 
 ###  🚨 Featured projects
 
-## Repositorios en Colaboración
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=holbertonschool-printf&theme=tokyonight)](https://github.com/JBMjese/holbertonschool-printf)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=PongGame&theme=tokyonight)](https://github.com/JBMjese/PongGame)
 
 
 ###  🔷 collaborations
 
-| Repository                                    | Description                              |
-| --------------------------------------------- | ---------------------------------------- |
-| [ holbertonschool-simple_shell]([enlace_al_repo_1](https://github.com/nCristinaRodriguezr/holbertonschool-simple_shell))| The Simple Shell is a basic command-line interface implemented in C, replicating the core functionality of the sh shell.|
-| [holbertonschool-AirBnB_clone](https://github.com/camilof91/holbertonschool-AirBnB_clone)  | This project builds a CLI for managing AirBnB objects, paving the way for a comprehensive web app with HTML/CSS templates, database storage, API, and front-end integration. Command Interpreter. |
+🚀 Featured projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nCristinaRodriguezr&repo=holbertonschool-simple_shell&theme=tokyonight)](https://github.com/nCristinaRodriguezr/holbertonschool-simple_shell) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=camilof91&repo=holbertonschool-AirBnB_clone&theme=tokyonight)](https://github.com/camilof91/holbertonschool-AirBnB_clone)
 
 
 ## ⚡ Technologies
