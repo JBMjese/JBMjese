@@ -30,7 +30,7 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JBMjese&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_nombre_de_usuario&layout=pie&theme=tokyonight)](https://github.com/tu_nombre_de_usuario/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBMjese&layout=pie&theme=tokyonight)](https://github.com/tu_nombre_de_usuario/github-readme-stats)
 
 
 
