@@ -25,9 +25,7 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 
 ###  🔷 collaborations
 
-🚀 Featured projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nCristinaRodriguezr&repo=holbertonschool-simple_shell&theme=tokyonight)](https://github.com/nCristinaRodriguezr/holbertonschool-simple_shell) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=camilof91&repo=holbertonschool-AirBnB_clone&theme=tokyonight)](https://github.com/camilof91/holbertonschool-AirBnB_clone)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nCristinaRodriguezr&repo=holbertonschool-simple_shell&theme=tokyonight)](https://github.com/nCristinaRodriguezr/holbertonschool-simple_shell) [nCristinaRodriguezr] ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=camilof91&repo=holbertonschool-AirBnB_clone&theme=tokyonight)](https://github.com/camilof91/holbertonschool-AirBnB_clone) [camilof91]
 
 
 ## ⚡ Technologies
