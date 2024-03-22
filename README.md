@@ -25,12 +25,16 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
 
-##  📈 My GitHub Stats
+##  📈 Stats
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JBMjese&show_icons=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBMjese&layout=pie&theme=tokyonight)](https://github.com/tu_nombre_de_usuario/github-readme-stats)
+
+###  🚨 Featured projects
+
+[![Repositorios Favoritos](https://github-readme-repos.vercel.app/api?username=JBMjese)](https://github.com/JBMjese)
 
 
 
