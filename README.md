@@ -1,7 +1,11 @@
 # 👋 Hello and Welcome to My GitHub Profile! ✨✨
 
-| <div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesenia-bernal-mogollon-9b70b7169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) </div> |
-|---|
+<p align="center">
+  <a href="https://www.linkedin.com/in/jesenia-bernal-mogollon-9b70b7169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 
 ##  
 I'm Jesenia Bernal Mogollon
