@@ -22,6 +22,13 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JBMjese&repo=PongGame&theme=tokyonight)](https://github.com/JBMjese/PongGame)
 
+🔷 ### collaborations
+
+| Repository                                    | Description                              |
+| --------------------------------------------- | ---------------------------------------- |
+| [ holbertonschool-simple_shell]([enlace_al_repo_1](https://github.com/nCristinaRodriguezr/holbertonschool-simple_shell))| The Simple Shell is a basic command-line interface implemented in C, replicating the core functionality of the sh shell.|
+| [holbertonschool-AirBnB_clone](https://github.com/camilof91/holbertonschool-AirBnB_clone)  | This project builds a CLI for managing AirBnB objects, paving the way for a comprehensive web app with HTML/CSS templates, database storage, API, and front-end integration. Command Interpreter. |
+
 
 ## ⚡ Technologies
 
