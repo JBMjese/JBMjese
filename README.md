@@ -29,6 +29,8 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JBMjese&show_icons=true&theme=tokyonight)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBMjese&show_icons=true)
+
 
 
 
