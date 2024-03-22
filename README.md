@@ -1,11 +1,11 @@
-#👋 Hello and Welcome to My GitHub Profile! ✨✨
+# 👋 Hello and Welcome to My GitHub Profile! ✨✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesenia-bernal-mogollon-9b70b7169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-## I'm Jesenia Bernal Mogollon
+I'm Jesenia Bernal Mogollon
 
-About me 😜
+## About me 😜
 
 I am currently refining my software development skills 💻 at Holberthon School, specializing in Python, JavaScript, Node.js, HTML, CSS, and SQL.
 
@@ -18,7 +18,7 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 😁 I'm excited to contribute and collaborate on challenging projects that drive innovation and technological progress. I'm always ready to learn and grow in this exciting world of technology! 😃
 
 
-##⚡ Technologies
+## ⚡ Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,js,html,css,mysql)](https://skillicons.dev)
 
