@@ -46,7 +46,7 @@ Additionally, 💼 I hold a degree in Financial Management with skills in data a
 
 
 
-###  🔷 collaborations
+###  🔷 Collaborations
 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nCristinaRodriguezr&repo=holbertonschool-simple_shell&theme=tokyonight&show_owner=true&description_lines_count=0)](https://github.com/nCristinaRodriguezr/holbertonschool-simple_shell) 
