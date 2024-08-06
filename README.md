@@ -12,13 +12,25 @@ I'm Jesenia Bernal Mogollon
 
 About me 😜
 
-I am currently refining my software development skills 💻 at Holberthon School, specializing in Python, JavaScript, Node.js, HTML, CSS, and SQL.
+I am Jesenia Bernal Mogollon, a software developer with a passion for creation and technological innovation.
 
-Recently, 🎲 I had the opportunity to develop a game 🎮 called PongGame using Phaser and JavaScript, allowing me to apply my knowledge to a practical and exciting project.
+Education and Experience 💻
 
-Furthermore, I have experience in C programming, distinguished by the creation of projects such as Simple Shell and printf. I am also proficient in the use of GitHub and ready to embark on a rewarding career as a developer.
+I recently completed my studies at Holberton School, where I honed my skills in Python, JavaScript, Node.js, HTML, CSS, SQL, TypeScript, Astro, and Bun. My training has allowed me to work on various interesting and challenging projects.
 
-Additionally, 💼 I hold a degree in Financial Management with skills in data analysis and customer service.
+Featured Projects 🎮
+
+🌐 Web Experience Creator: I developed a user interface (UI) builder specifically designed to create and export scripts that generate customized interfaces for educational websites. This project uses native browser technologies, ensuring a lightweight and efficient solution for developers and educational experience designers. Technologies used: TypeScript, JavaScript, Astro, CSS, HTML, and Bun.
+
+🏠 holbertonschool-AirBnB_clone: An Airbnb clone project where I applied my skills in web development and designing complex systems.
+
+🎲 PongGame: I developed a game called PongGame using Phaser and JavaScript, applying my knowledge to a practical and exciting project.
+
+🖥️ Simple Shell: A programming project in C where I created a simple shell, improving my skills in low-level programming.
+
+Additional Skills 💼
+
+In addition to my technical training, I have a degree in Financial Management, with skills in data analysis and customer service. These skills complement my technical profile, allowing me to tackle problems from multiple perspectives and collaborate effectively in multidisciplinary teams.
 
 😁 I'm excited to contribute and collaborate on challenging projects that drive innovation and technological progress. I'm always ready to learn and grow in this exciting world of technology! 😃
 
